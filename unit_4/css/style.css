@@ -1,0 +1,44 @@
+body {
+	background-image: url("http://blogs.newschool.edu/news/files/2017/04/Street-Seats-1-1024x679.png");
+	background-color: #FFFFFF;
+	background-size: cover;
+
+}
+
+h1, p, ul, a {
+	color: #000000;
+}
+
+h1 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 900;
+}
+
+p, ul, a {
+	font-family: 'Rubik', sans-serif;
+}
+
+h1, p, a {
+	padding-left: 20px;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 16px;
+}
+
+#bio {
+	text-align: left;
+	font-size: 20px;
+}
+
+#services {
+	padding-left: 46px;
+	font-size: 16px;
+}
+
+#contact {
+	font-size: 16px;
+}
+
+
