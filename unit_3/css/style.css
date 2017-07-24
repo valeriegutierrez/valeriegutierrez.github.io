@@ -10,11 +10,12 @@ h1, p, ul, a {
 }
 
 h1 {
-	font-family: 'Vidaloka', serif;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 900;
 }
 
 p, ul, a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Rubik', sans-serif;
 }
 
 h1, p, a {
@@ -28,7 +29,7 @@ h1, p, a {
 
 #bio {
 	text-align: left;
-	font-size: 22px;
+	font-size: 20px;
 }
 
 #services {
